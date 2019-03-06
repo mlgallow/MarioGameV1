@@ -1,1 +1,2 @@
 # MarioGameV1
+This is the first version of a completed assignment from a Programming Paradigms course I took in the Fall semester of 2018. This project allows you to control Mario. This version of the project does not use polymorphism, and has very limited images and image placement. However, it showed the idea of x scrolling and animation of an object using multiple different images. In this version of this project you can not really interact with the bricks (hitting the bricks and coins popping out of them)
